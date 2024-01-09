@@ -8,6 +8,22 @@
             FlowDefinition
         </name>
     </types>
+    <types>
+        <members>
+            Record_Repository__c
+        </members>
+        <name>
+            CustomObject
+        </name>
+    </types>
+    <types>
+        <members>
+            Record_Repository__c-Record Repository Layout
+        </members>
+        <name>
+            Layout
+        </name>
+    </types>
 
     <version>58.0</version>
 </Package>
